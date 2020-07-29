@@ -1,0 +1,19 @@
+y = 8
+
+def main():
+	x = 4
+	x = mystery(x + 1)
+	print(s)
+
+def mystery(x):
+	s = 0
+	for i in range(x):
+		x = i + 1
+		s = s + x
+	return s
+
+a) 11, 12, 13
+b) 10, 11, 12, 13
+c) x in main() and x in mystery()
+d) line 1
+e) print x instead of s, as s isn't being returned, it's value is: it's value is being returned to x
