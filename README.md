@@ -3,14 +3,17 @@ Just a collection of short, single purpose scripts I've whipped up for whatever 
 
 # Natas
 Scripts for the Natas CTF
+
 	**payload.jpeg**
 		A php script with the jpeg magic numbers to upload to the website
 	**handler.html**
 		A handler for the above php script
 	**bruteforce.py**
 		An SQL request bruteforcer that uses the requests module for python
+		
 # NetScript
 Scripts for my network scripting unit
+
 	**ceasar.py**
 		A ceasar cipher tool
 	**Port_scanner.py**
