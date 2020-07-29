@@ -27,4 +27,7 @@ Scripts for my network scripting unit
 
 # binary_practice.py
 Generates hex/decimal/binary input and gives you 3 tries to convert it to and from the format it asks
-Used for practicing converting and recognising different bases, for my Cyber Security course
+Used for practicing converting and recognising different bases
+
+# portstudy.py
+A script that asks questions about some common ports
